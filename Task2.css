@@ -1,0 +1,184 @@
+
+
+ .logo{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+    border-radius: 50px;
+}
+
+.statement {
+    text-decoration: none;
+    margin-right: 200px;
+    width: 100%;
+    height: 600px;
+    /* background-image: url('image1/OrbitalSanders-GettyImages-700724473-5948053e5f9b58d58ab9d54c\ \(1\).jpg'); */
+    background-image: url('image1/image.jpg');
+    
+}
+
+.nav-link {
+    color: white;
+
+}
+
+.nav-item {
+
+    padding-top: 25px;
+    padding-right: 20px;
+
+}
+
+.statement1 {
+    text-decoration: underline;
+    color: white;
+}
+
+.relative {
+    padding-top: 230px;
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+
+
+}
+
+.statement2 {
+    line-height: 20px;
+}
+
+.statement3 {
+    border: none;
+    color: white;
+    background-color: orangered;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1px 2px;
+    cursor: pointer;
+}
+
+.bottomright {
+
+    font-size: 18px;
+    color:white;
+    position: absolute;
+    right: 50px;
+
+}
+
+
+.statement4 {
+    text-align: center;
+    color: white;
+    line-height: 6px;
+
+}
+
+h5 {
+    text-align: center;
+    font-size: 15px;
+    color:white;
+
+}
+
+body {
+    overflow-x: hidden;
+    /* background-color: rgba(62, 62, 59, 0.849); */
+    background-color: rgb(50, 54, 63);
+}
+
+.card {
+    background-image: linear-gradient();
+    background-image: url('image2/WhatsApp\ Image\ 2023-08-02\ at\ 6.25.57\ PM\ \(4\).jpeg' );
+    background-size: 120% 500px;
+    overflow-x: hidden;
+    overflow: hidden;
+   background-position: left;
+    padding: 30px;
+    width: 90%;
+    position: absolute;
+    left: 58px;
+    border-radius: 15px;
+    color: white;
+    line-height: 6px;
+}
+
+.statement5 {
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.prasad:visited {
+    color: rgb(220, 73, 20);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.card-1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: left;
+    /* background-color: #f1f1f1; */
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 110%;
+    height: 90%;
+    background-image: url('image1/adobestock_329585374.jpg');
+    color: white;
+}
+.card-2 {
+    background-image: url('image2/WhatsApp\ Image\ 2023-08-02\ at\ 6.25.57\ PM\ \(5\).jpeg');
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: left;
+    color:white;
+    border-radius: 10px;
+    margin-top: 20px;
+    ;
+    width: 110%;
+
+
+}
+
+
+.column {
+    float: left;
+    width: 45%;
+    padding: 5px;
+    padding-left: 70px;
+    padding-top: 200px;
+}
+/* img{
+    padding-left: 30px ;
+} */
+.qus {
+    padding: 15px;
+   
+  }
+  .acco-color {
+    border: none;
+    outline: none;
+    background-color: rgb(50, 54, 63) !important;
+    color: white !important;
+    margin-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .accordion {
+    --bs-accordion-btn-focus-border-color: none !important;
+    --bs-accordion-border-width: none !important;
+    --bs-accordion-btn-focus-box-shadow: none !important;
+    --bs-accordion-border-radius: none !important;
+    --bs-accordion-inner-border-radius: none !important;
+  }
+  button.accordion-button.acco-color::after {
+    color: white;
+  }
+  .col-md-7{
+    padding-top:50px;
+  }

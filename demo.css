@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+}
+.statement {
+    text-decoration: none;
+    margin-right: 200px;
+    width: 100%;
+    height: 600px;
+    background-image: url('image/Freed_24694_1103752.jpg');
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.statement1 {
+    text-decoration: underline;
+    color: brown;
+}
+
+div.relative {
+    position: relative;
+    left: -10re;
+    top: 300px;
+    right: 0;
+    width: 200px;
+}
+
+.statement2 {
+    font-size: 20px;
+    color: rgb(220, 29, 29);
+}
+
+.statement3 {
+    background-color: rgba(255, 68, 0, 0.977);
+    color: white;
+    border: none;
+}
+
+.bi bi-arrow-left-short {
+    size: 90px;
+}
+
+.statement4 {
+    text-align: center;
+    color: rgb(222, 36, 36);
+}
+
+h5 {
+    text-align: center;
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 100px;
+    right: 180px;
+    font-size: 18px;
+    color: rgb(226, 153, 43);
+}
+
+.card {
+    position: absolute;
+    left: 60px;
+    background-image: url('image/pexels-bidvine-1249611.jpg');
+}
+.container{
+
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+
+
+.statement5 {
+    color: rgb(165, 101, 42);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a:visited {
+    color: rgb(165, 101, 42);
+    background-color: transparent;
+    text-decoration: none;
+}
+.card-1{
+    background-image: url(/image/pexels-bidvine-1249611.jpg);
+    background-size: 100% 400px;
+    overflow-x: hidden;
+    overflow: hidden;
+    padding: 30px;
+    width: 90%;
+    position:absolute;
+    left: 58px;
+    border-radius: 10px;
+
+}
+.card-2{
+    background-image: url('/image/pexels-ono-kosuki-5974404.jpg');
+    width:80%;
+    border-radius: 10px;
+    position: absolute;
+    bottom:-250px;
+    left:92px;
+    padding: 30px;
+    overflow-x: hidden;
+    overflow: hidden;
+}
+.card-3{
+    background-image: url('/image/pexels-ono-kosuki-5974396.jpg');
+    width: 80%;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+
+
